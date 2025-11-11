@@ -1,4 +1,5 @@
 crewai
+crewai-tools
 openai
 python-dotenv
 requests
