@@ -49,6 +49,9 @@ Built using the CrewAI framework, which enables the creation of collaborative AI
 
 ### Usage
 
+For detailed usage instructions, see [USAGE.md](USAGE.md).
+
+Quick start:
 1. Configure your content topics and posting schedule in the code (e.g., modify the `inputs` in `main.py`).
 2. Run the agent:
    ```bash
